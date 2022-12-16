@@ -1,0 +1,23 @@
+{
+  "name": "feynman-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adhish-1998/Feynman-Board.git"
+  },
+  "author": "Adhish Basak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adhish-1998/Feynman-Board/issues"
+  },
+  "homepage": "https://github.com/Adhish-1998/Feynman-Board#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
