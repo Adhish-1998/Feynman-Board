@@ -1,0 +1,60 @@
+
+.AddTopic{
+    position: relative;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 300px;
+    width: 250px;
+    background-color: orange;
+}
+
+.AddTopic label{
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.AddTopic input{
+    background: transparent;
+    border : 1px transparent;
+    border-bottom: 3px solid white;
+}
+
+.AddTopic textarea{
+    position: relative;
+    top: 30px;
+    resize: none;
+    height: 220px;
+    width: 180px;
+    background: grey;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+
+
+#a{
+    border: 1px solid red;
+    background-color: green;
+    color: white;
+}
+
+#b{
+    border: 1px solid red;
+    background-color: yellow;
+    color: black;
+}
+
+#c{
+    border: 1px solid red;
+    background-color: skyblue;
+    color: white;
+}
+
+#d{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+}

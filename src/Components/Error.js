@@ -3,7 +3,7 @@
 const Error = ()=>{
     return (
         <div>
-            <h1>Error Component</h1>
+            <h1>Enter User Name Test123</h1>
         </div>
     )
 }
