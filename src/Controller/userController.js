@@ -10,8 +10,8 @@ const addUser = async(req,res) =>{
 }
 
 
-const getUser = async(req,res) =>{
-    let user = await userModel.findOne()
+const getUser = async(req,res) =>{   
+    let user = await userModel.findOne({user: req.body.user})
     return res.send({data : user})
  }
 
